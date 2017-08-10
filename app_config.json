@@ -37,8 +37,8 @@
 ],
 
 "types":[
-	{"id":1, "type":"Palestra"},
-	{"id":2, "type":"Oficina"},
+	{"id":1, "type":"Palestras"},
+	{"id":2, "type":"Oficinas"},
 	{"id":3, "type":"Encontro da Comunidade"},
 	{"id":4, "type":"Outros"}
 ]
