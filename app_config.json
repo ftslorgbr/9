@@ -38,7 +38,7 @@
 
 "types":[
 	{"id":1, "type":"Palestras"},
-	{"id":2, "type":"Oficinas"},
+	{"id":2, "type":"Minicursos"},
 	{"id":3, "type":"Encontro da Comunidade"},
 	{"id":4, "type":"Outros"}
 ]
