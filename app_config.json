@@ -23,8 +23,8 @@
 	{"id":13, "type":2, "place":4, "description":"Lab 4"} 
 ],
 "rooms":[
-	{"id":1, "type":1, "place":1, "description":"AuditÃ³rio"}, 
-	{"id":2, "type":1, "place":2, "description":"Mini-AuditÃ³rio"}, 
+	{"id":1, "type":1, "place":1, "description":"Auditório"}, 
+	{"id":2, "type":1, "place":2, "description":"Mini-Auditório"}, 
 	{"id":3, "type":1, "place":3, "description":"Sala 1"}, 
 	{"id":4, "type":1, "place":4, "description":"Sala 2"}, 
 	{"id":5, "type":1, "place":5, "description":"Sala 3"}, 
