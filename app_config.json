@@ -20,7 +20,7 @@
 	{"id":10, "type":2, "place":1, "description":"Lab 1"}, 
 	{"id":11, "type":2, "place":2, "description":"Lab 2"}, 
 	{"id":12, "type":2, "place":3, "description":"Lab 3"}, 
-	{"id":13, "type":2, "place":4, "description":"Lab 4"} 
+	{"id":13, "type":2, "place":12, "description":"Lab 4"} 
 ],
 "rooms":[
 	{"id":1, "type":1, "place":1, "description":"Auditório"}, 
