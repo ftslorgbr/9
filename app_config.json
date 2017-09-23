@@ -17,9 +17,9 @@
 	{"id":22, "time":"Noite"},
 	{"id":23, "time":"Dia inteiro"}],
 "labs":[
-	{"id":10, "type":2, "place":1, "description":"Lab 1"}, 
-	{"id":11, "type":2, "place":2, "description":"Lab 2"}, 
-	{"id":12, "type":2, "place":3, "description":"Lab 3"}, 
+	{"id":10, "type":2, "place":9, "description":"Lab 1"}, 
+	{"id":11, "type":2, "place":10, "description":"Lab 2"}, 
+	{"id":12, "type":2, "place":11, "description":"Lab 3"}, 
 	{"id":13, "type":2, "place":12, "description":"Lab 4"} 
 ],
 "rooms":[
