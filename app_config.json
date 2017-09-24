@@ -17,18 +17,24 @@
 	{"id":22, "time":"Noite"},
 	{"id":23, "time":"Dia inteiro"}],
 "labs":[
-	{"id":10, "type":2, "place":9, "description":"Lab 1"}, 
-	{"id":11, "type":2, "place":10, "description":"Lab 2"}, 
-	{"id":12, "type":2, "place":11, "description":"Lab 3"}, 
-	{"id":13, "type":2, "place":12, "description":"Lab 4"} 
+	{"id":10, "type":2, "place":6, "description":"B109"}, 
+	{"id":11, "type":2, "place":8, "description":"B202"}, 
+	{"id":12, "type":2, "place":4, "description":"B107"}, 
+	{"id":13, "type":2, "place":3, "description":"B106"} 
 ],
 "rooms":[
 	{"id":1, "type":1, "place":1, "description":"Auditório"}, 
 	{"id":2, "type":1, "place":2, "description":"Mini-Auditório"}, 
-	{"id":3, "type":1, "place":3, "description":"Sala 1"}, 
-	{"id":4, "type":1, "place":4, "description":"Sala 2"}, 
-	{"id":5, "type":1, "place":5, "description":"Sala 3"}, 
-	{"id":6, "type":1, "place":6, "description":"Sala 4"} 
+	{"id":3, "type":1, "place":5, "description":"B108"}, 
+	{"id":4, "type":1, "place":7, "description":"B201"} 
+	{"id":5, "type":1, "place":9, "description":"B205"}, 
+	{"id":6, "type":1, "place":10, "description":"B301"}, 
+	{"id":7, "type":1, "place":11, "description":"B302"}, 
+	{"id":8, "type":1, "place":12, "description":"Q104"}, 
+	{"id":9, "type":1, "place":13, "description":"Q105"}, 
+	{"id":10, "type":1, "place":14, "description":"Q107"}, 
+	{"id":11, "type":1, "place":15, "description":"Q108"}, 
+	{"id":12, "type":1, "place":16, "description":"Q110"}
 ],
 "days":[
 	{"id":1, "day":"27/09/2017"}, 
