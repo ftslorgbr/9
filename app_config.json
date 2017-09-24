@@ -26,7 +26,7 @@
 	{"id":1, "type":1, "place":1, "description":"Auditório"}, 
 	{"id":2, "type":1, "place":2, "description":"Mini-Auditório"}, 
 	{"id":3, "type":1, "place":5, "description":"B108"}, 
-	{"id":4, "type":1, "place":7, "description":"B201"} 
+	{"id":4, "type":1, "place":7, "description":"B201"},
 	{"id":5, "type":1, "place":9, "description":"B205"}, 
 	{"id":6, "type":1, "place":10, "description":"B301"}, 
 	{"id":7, "type":1, "place":11, "description":"B302"}, 
