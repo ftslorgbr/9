@@ -20,7 +20,7 @@
 	{"id":10, "type":2, "place":9, "description":"B109"}, 
 	{"id":11, "type":2, "place":10, "description":"B202"}, 
 	{"id":12, "type":2, "place":11, "description":"B107"}, 
-	{"id":13, "type":2, "place":12, "description":"B106"} 
+	{"id":13, "type":2, "place":12, "description":"B106"},
 	{"id":14, "type":2, "place":13, "description":"Q110"} 
 ],
 "rooms":[
@@ -34,7 +34,7 @@
 	{"id":8, "type":1, "place":8, "description":"B301"}, 
 	{"id":9, "type":1, "place":14, "description":"Q107"}, 
 	{"id":15, "type":1, "place":15, "description":"Q108"}, 
-	{"id":16, "type":1, "place":16, "description":"Q105"}
+	{"id":16, "type":1, "place":16, "description":"Q105"},
 	{"id":17, "type":1, "place":100, "description":"A Definir"}
 ],
 "days":[
