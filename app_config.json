@@ -17,24 +17,25 @@
 	{"id":22, "time":"Noite"},
 	{"id":23, "time":"Dia inteiro"}],
 "labs":[
-	{"id":10, "type":2, "place":6, "description":"B109"}, 
-	{"id":11, "type":2, "place":8, "description":"B202"}, 
-	{"id":12, "type":2, "place":4, "description":"B107"}, 
-	{"id":13, "type":2, "place":3, "description":"B106"} 
+	{"id":10, "type":2, "place":9, "description":"B109"}, 
+	{"id":11, "type":2, "place":10, "description":"B202"}, 
+	{"id":12, "type":2, "place":11, "description":"B107"}, 
+	{"id":13, "type":2, "place":12, "description":"B106"} 
+	{"id":14, "type":2, "place":13, "description":"Q110"} 
 ],
 "rooms":[
 	{"id":1, "type":1, "place":1, "description":"Auditório"}, 
 	{"id":2, "type":1, "place":2, "description":"Mini-Auditório"}, 
-	{"id":3, "type":1, "place":5, "description":"B108"}, 
-	{"id":4, "type":1, "place":7, "description":"B201"},
-	{"id":5, "type":1, "place":9, "description":"B205"}, 
-	{"id":6, "type":1, "place":10, "description":"B301"}, 
-	{"id":7, "type":1, "place":11, "description":"B302"}, 
-	{"id":8, "type":1, "place":12, "description":"Q104"}, 
-	{"id":9, "type":1, "place":13, "description":"Q105"}, 
-	{"id":14, "type":1, "place":14, "description":"Q107"}, 
+	{"id":3, "type":1, "place":3, "description":"B303"}, 
+	{"id":4, "type":1, "place":4, "description":"B107"},
+	{"id":5, "type":1, "place":5, "description":"B108"}, 
+	{"id":6, "type":1, "place":6, "description":"B205"}, 
+	{"id":7, "type":1, "place":7, "description":"Q104"}, 
+	{"id":8, "type":1, "place":8, "description":"B301"}, 
+	{"id":9, "type":1, "place":14, "description":"Q107"}, 
 	{"id":15, "type":1, "place":15, "description":"Q108"}, 
-	{"id":16, "type":1, "place":16, "description":"Q110"}
+	{"id":16, "type":1, "place":16, "description":"Q105"}
+	{"id":17, "type":1, "place":100, "description":"A Definir"}
 ],
 "days":[
 	{"id":1, "day":"27/09/2017"}, 
@@ -51,4 +52,3 @@
 "about": "O Fórum de Tecnologia em Software Livre (FTSL) é um evento anual promovido pelo Serviço Federal de Processamento de Dados (SERPRO). Considerado o maior evento de Software Livre de Curitiba e Região tem como propósito a disseminação de novas tecnologias baseadas em Software Livre, bem como, a troca de experiências com as comunidades, universidades e empresas públicas e privadas, por meio de palestras, painéis/mesas-redondas e oficinas/minicursos. <br><br>Local, data e sites:<br><br>O 9º FTSL acontecerá nos dias 27 à 29 de setembro de 2017 das 09h00min às 21h00min. <br><br>O evento será realizado nas dependências físicas do campus central da Universidade Tecnológica Federal do Paraná – UTFPR,sito a Av. Sete de Setembro, 3165 - Rebouças, em Curitiba – PR.<br><br>O site oficial do 9º FTSL é: http://www.ftsl.org.br."
 
 }
-
