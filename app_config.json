@@ -21,7 +21,7 @@
 	{"id":11, "type":2, "place":10, "description":"B202"}, 
 	{"id":12, "type":2, "place":11, "description":"B107"}, 
 	{"id":13, "type":2, "place":12, "description":"B106"},
-	{"id":14, "type":2, "place":13, "description":"Q110"} 
+	{"id":14, "type":2, "place":13, "description":"Q203"} 
 ],
 "rooms":[
 	{"id":1, "type":1, "place":1, "description":"Auditório"}, 
@@ -30,11 +30,11 @@
 	{"id":4, "type":1, "place":4, "description":"B107"},
 	{"id":5, "type":1, "place":5, "description":"B108"}, 
 	{"id":6, "type":1, "place":6, "description":"B205"}, 
-	{"id":7, "type":1, "place":7, "description":"Q104"}, 
+	{"id":7, "type":1, "place":7, "description":"Q301"}, 
 	{"id":8, "type":1, "place":8, "description":"B301"}, 
 	{"id":9, "type":1, "place":14, "description":"Q107"}, 
 	{"id":15, "type":1, "place":15, "description":"Q108"}, 
-	{"id":16, "type":1, "place":16, "description":"Q105"},
+	{"id":16, "type":1, "place":16, "description":"Q205"},
 	{"id":17, "type":1, "place":100, "description":"A Definir"}
 ],
 "days":[
